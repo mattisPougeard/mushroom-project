@@ -1,0 +1,8 @@
+#Création de sa branche perso (Faire qu'une seule fois)
+git branch <ta_branche>
+
+#A faire à chaque fois que tu bosse
+- git checkout <ta_branche> (Pour aller sur ta branche)
+- git add <nom_fichier_modifié> (Quand tu as fini) 
+- git commit -m "commentaire" (Pour commit ton travail)
+- git push 
