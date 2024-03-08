@@ -5,4 +5,7 @@ git branch <ta_branche>
 - git checkout <ta_branche> (Pour aller sur ta branche)
 - git add <nom_fichier_modifié> (Quand tu as fini) 
 - git commit -m "commentaire" (Pour commit ton travail)
-- git push 
+- git push <ta_branche>
+
+#Récupérer les modification présentes dans le git d'une branche donnée
+- git pull origin <nom_branche>
