@@ -1,1 +1,15 @@
-pip install pandas
+pip install :
+• pandas
+• jsonlib
+• ipython
+• os-sys
+• matplotlib
+• seaborn
+• requests
+• pytest-shutil
+• pathlib
+• pillow
+• numpy
+• random2
+• opencv-python
+• scikit-learn
