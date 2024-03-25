@@ -13,3 +13,5 @@ pip install :
 • random2
 • opencv-python
 • scikit-learn
+• keras
+• statsmodels
